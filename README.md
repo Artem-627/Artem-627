@@ -1,16 +1,16 @@
-### Hi there 👋
+# ✨**What's up?**
 
-<!--
-**Artem-627/Artem-627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻 About me
+- 👨🏻‍💻 I'm Artem, high school student from Dolgoprudny
+- 🏫 I study at the PhysTech-Lyceum, and I am interested in computer science
+- 🌱 I’m currently learning C++ and Qt6
+## 🧩 My skills:
+  - 🖥️ C++ (Qt6, Crow)
+  - 🐍 Python
+  - 🐧 Linux/Unix (I user arch, btw)
+  - 🐱 Git
+  - 🕸️ Little bit of Web (Html + CSS + JS)
+## ☎️ Contacts:
+  - 📧 Email: artem@a627.ru
+  - ✈️ Telegram: t.me/Artem_627
+  - 🟦 VK: vk.com/artem_627
