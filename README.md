@@ -1,4 +1,4 @@
-![image](https://github.com/Artem-627/Artem-627/assets/73391473/e11b26f4-feb5-4817-85e6-65594f4ced0f)# ✨**What's up?**
+✨**What's up?**
 
 ## 👨🏻 About me
 - 👨🏻‍💻 I'm Artem, high school student from Dolgoprudny
