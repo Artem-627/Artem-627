@@ -1,4 +1,4 @@
-# ✨**What's up?**
+![image](https://github.com/Artem-627/Artem-627/assets/73391473/e11b26f4-feb5-4817-85e6-65594f4ced0f)# ✨**What's up?**
 
 ## 👨🏻 About me
 - 👨🏻‍💻 I'm Artem, high school student from Dolgoprudny
@@ -14,3 +14,5 @@
   - 📧 Email: artem@a627.ru
   - ✈️ Telegram: t.me/Artem_627
   - 🟦 VK: vk.com/artem_627
+
+😭 I can't add payment information from Russia
