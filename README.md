@@ -7,7 +7,7 @@
 ## 🧩 My skills:
   - 🖥️ C++ (Qt6, Crow)
   - 🐍 Python
-  - 🐧 Linux/Unix (I user arch, btw)
+  - 🐧 Linux/Unix (I use arch, btw)
   - 🐱 Git
   - 🕸️ Little bit of Web (Html + CSS + JS)
 ## ☎️ Contacts:
