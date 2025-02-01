@@ -14,5 +14,3 @@
   - 📧 Email: artem@a627.ru
   - ✈️ Telegram: t.me/Artem_627
   - 🟦 VK: vk.com/artem_627
-
-😭 I can't add payment information from Russia
